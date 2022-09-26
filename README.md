@@ -39,7 +39,7 @@ Ya tenemos todo lo que necesitamos para probar nuestro contrato inteligente. Aho
 
 ## llamar funciones
 * ingresar nuevo curso
-```
+
 near call (SUCUENTA TESTNET) setCurso '{"NOMBREC" : "Ingles", "idC":"02", "Clasificacion": "lengua extranjera"}' --accountId (CUENTA TESTNET)
 ```
 * visualizar todos los cursos
